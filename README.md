@@ -5,7 +5,7 @@
 
 ### Hi, I'm Olufikunayomi <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
 <div>
- <h3>Hey there, I am a pharmacist who recently transitioned into data science. This year, I embarked on a journey to integrate my expertise in healthcare with data science and machine learning. I’m passionate about using my skills to improve healthcare systems, optimize treatment plans, and ultimately enhance patient outcomes. With knowledge in Python and various libraries, I’m excited to explore how data-driven approaches can transform healthcare..</h3>
+ <h3>Hey there, I am a pharmacist who recently transitioned into data science. I am on a journey to integrate my expertise in healthcare with data science and machine learning. I’m passionate about using my skills to improve healthcare systems, optimize treatment plans, and ultimately enhance patient outcomes. With knowledge in Python and various libraries, I’m excited to explore how data-driven approaches can transform healthcare..</h3>
 </div>
 <br>
 <br>
