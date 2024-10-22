@@ -1,6 +1,6 @@
 # Olabamiji-Olufikunayomi
 <p>
-<img src ="https://komarev.com/ghpvc/?username=samuelajala01&label=Visitors&color=blue&style=plastic"/>
+<img src ="https://komarev.com/ghpvc/?username=OlabamijiOlufukinayomi&label=Visitors&color=blue&style=plastic"/>
 </p>
 
 ### Hi, I'm Olufikunayomi <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi">
@@ -22,8 +22,9 @@
 ### 🌍 Let's Connect: 
 
 [![Twitter: Wealthbamiji](https://img.shields.io/twitter/follow/wealthbamiji?style=social)](https://twitter.com/wealthbamiji)
-[![Linkedin: Olabamiji Olufikunayomi](https://img.shields.io/badge/-Olabamiji Olufikunayomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Olabamiji Olufikunayomi/)](https://www.linkedin.com/in/Olabamiji Olufikunayomi/)
-[![Instagram: Olufikunayomi__](https://img.shields.io/badge/-Olufikunayomi?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Olufikunayomi__)
+[![Linkedin: Olabamiji_Olufikunayomi](https://img.shields.io/badge/-Olabamiji_Olufikunayomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Olabamiji_Olufikunayomi/)](https://www.linkedin.com/in/Olabamiji_Olufikunayomi/)
+[![Instagram Badge](https://img.shields.io/badge/-@Olufikunayomi__-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Olufikunayomi__)
+
 
 <br><br>
 
