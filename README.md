@@ -22,7 +22,7 @@
 ### 🌍 Let's Connect: 
 
 [![Twitter: Wealthbamiji](https://img.shields.io/twitter/follow/wealthbamiji?style=social)](https://twitter.com/wealthbamiji)
-[![Linkedin: olabamiji olufikunayomi](https://img.shields.io/badge/-olabamiji olufikunayomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olabamiji-olufikunayomi-182694194)](https://www.linkedin.com/in/olabamiji-olufikunayomi-182694194)
+[![Linkedin: olabamijiolufikunayomi](https://img.shields.io/badge/-olabamijiolufikunayomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olabamiji-olufikunayomi-182694194)](https://www.linkedin.com/in/olabamiji-olufikunayomi-182694194)
 [![Instagram Badge](https://img.shields.io/badge/-@Olufikunayomi_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/Olufikunayomi_)
 
 
